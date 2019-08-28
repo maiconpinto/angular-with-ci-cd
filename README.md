@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/maiconpinto/angular-with-ci-cd.svg?branch=master)](https://travis-ci.org/maiconpinto/angular-with-ci-cd)
+
 # Angular With CI/CD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1.
